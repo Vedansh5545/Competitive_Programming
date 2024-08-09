@@ -1,5 +1,8 @@
 '''
-
+This script contains three functions:
+1. prime(): Checks if a given number is prime.
+2. divisor(): Finds all divisors of a given number.
+3. divisor2(): Finds all divisors of a given number using a more efficient method.
 '''
 from math import *
 
